@@ -20,7 +20,7 @@ NEWSPIDER_MODULE = 'signalstart.spiders'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
-# Turn off log
+# Disable log
 LOG_ENABLED = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
